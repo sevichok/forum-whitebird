@@ -21,6 +21,10 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
+    "src",
+    "public/reportWebVitals.ts",
+    "public/setupTests.ts",
+    "public/react-app-env.d.ts",
+    "public/App.test.tsx"
   ]
 }
